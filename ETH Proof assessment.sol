@@ -18,7 +18,7 @@ pragma solidity 0.8.18;
 contract MyToken {
 
     // public variables here
-    string public tokenName = "BitToken;
+    string public tokenName = "BitToken";
     string public tokenAbbrv = "BT";
     uint public totalSupply = 0;
     
